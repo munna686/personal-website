@@ -1,0 +1,139 @@
+.top{
+    background-image: url("img/header-bg.png");
+    
+    height: 600px;
+    width: 100%;
+}
+.halfwidth{
+    width: 40%;
+    margin-top: 60px;
+    float: left;
+    padding-left: 120px;
+}
+.halfwidth img{
+    width: 75%;
+    height: 75%;
+    padding-right: 100px;
+}
+.text{
+    margin-top: 130px;
+    margin-left: 50px;
+    
+}
+.text h1{
+    color: #ec4c76;
+    font-size: 45px;
+}
+.text p{
+    color: #696969;
+    margin-bottom: 40px;
+}
+.bttn{
+    padding: 10px 35px;
+    background-color: #ec4c76;
+    position: relative;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+
+}
+.middle{
+    background-image: url("img/biography-bg.png");
+    
+    height: 700px;
+   
+}
+.bio{
+    width: 40%;
+    float: left;
+    padding-top: 100px;
+
+}
+.text1{
+    margin-left: 200px;   
+    padding-top: 250px;
+    
+}
+.text1 p{
+    color: #696969;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.bio img{
+    height: 77%;
+    width: 77%;
+    margin-left: 120px;
+    
+}
+.bio a{
+    padding: 10px 40px;
+    background-color: #ec4c76;
+    text-decoration: none;
+    color:white;
+    border-radius: 10px;
+}
+.last{
+    margin-top: 10px;
+    height: 500px;
+    width: 100%;
+    
+    padding-left: 0px;
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+  
+   
+    
+}
+.work img{
+    height: 28%;
+    width: 28%;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-left: 35px;
+    
+    
+}
+.footer{
+    height: 700px;
+    
+    background-image: url("img/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.cmmnt{
+    text-align: center;
+}
+.cmmnt h1{
+    margin-bottom: 100px;
+}
+.hadom{
+    color: #696969;
+    margin-bottom: 80px;
+}
+.kotha{
+    width: 40%;
+    margin-left: 450px;
+    margin-bottom: 70px;
+}
+.email{
+    text-align: center;
+    text-decoration: none;
+    width: 25%;
+    margin-left: 540px;
+    padding: 10px 30px;
+    background-color: #ec4c76;
+    border-radius: 20px;
+    
+}
+.email a{
+    text-decoration: none;
+}
+.email p{
+    text-decoration: none;
+    color:white ;
+}
+.email h2{
+    text-decoration: none;
+    color: white;
+}
